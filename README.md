@@ -1,4 +1,4 @@
 testRepo
 ========
 
-Some space for my coding learning, practising and experimenting.
+Some space for learning, practising and experimenting with code.
